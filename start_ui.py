@@ -60,7 +60,7 @@ def show_error_message(message: str) -> None:
     try:
         if os.name == "nt":
             import ctypes
-            ctypes.windll.user32.MessageBoxW(0, message, "悟空GitHub采集器 - 启动失败", 0x10)
+            ctypes.windll.user32.MessageBoxW(0, message, "悟空GitHub数据分析工具 - 启动失败", 0x10)
     except Exception:
         pass
 

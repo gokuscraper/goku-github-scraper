@@ -617,7 +617,7 @@ def render_rate_panel(target: Optional[Any] = None) -> None:
 # -------------------------------
 def main() -> None:
     st.set_page_config(
-        page_title="悟空GitHub采集器",
+        page_title="悟空GitHub数据分析工具",
         page_icon=resolve_asset_path("logo.svg"),
         layout="wide",
         initial_sidebar_state="expanded",
@@ -643,7 +643,7 @@ def main() -> None:
         st.markdown("<div style='height:10px;'></div>", unsafe_allow_html=True)
         st.image(resolve_asset_path("logo.svg"), width=42)
     with title_col2:
-        st.markdown("<h1 style='margin: 0; margin-left: -22px;'>悟空GitHub采集器</h1>", unsafe_allow_html=True)
+        st.markdown("<h1 style='margin: 0; margin-left: -22px;'>悟空GitHub数据分析工具</h1>", unsafe_allow_html=True)
     st.caption("让数据不仅被看见，更被读懂。")
 
     rate_placeholder = st.empty()
