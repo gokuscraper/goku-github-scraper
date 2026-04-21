@@ -15,7 +15,7 @@
 
 ## 在线体验
 
-https://goku-dev-analytics.streamlit.app/
+[https://goku-dev-analytics.streamlit.app/](https://goku-dev-scraper.streamlit.app/)
 
 ## 功能特性
 
