@@ -1,4 +1,4 @@
-# 悟空GitHub数据分析工具
+# 悟空GitHub采集器（GitHub 抓取工具 - GitHub 爬虫工具）
 
 ![https://asiaassets.gokuscraper.com/images/2026/04/20/645c271762df3d49.webp](https://asiaassets.gokuscraper.com/images/2026/04/20/645c271762df3d49.webp)
 
@@ -17,7 +17,9 @@
 
 ## 在线体验
 
-https://goku-dev-analytics.streamlit.app/
+[https://goku-dev-scraper.streamlit.app/](https://goku-dev-scraper.streamlit.app/)
+
+[https://modelscope.cn/studios/GokuScrpaer/GokuGitHubScraper](https://modelscope.cn/studios/GokuScrpaer/GokuGitHubScraper)
 
 ## 功能特性
 
