@@ -1,4 +1,4 @@
-# 悟空GitHub采集器（GitHub 抓取工具 - GitHub 爬虫工具）
+# GitHub采集器
 
 ![https://asiaassets.gokuscraper.com/images/2026/04/20/645c271762df3d49.webp](https://asiaassets.gokuscraper.com/images/2026/04/20/645c271762df3d49.webp)
 
