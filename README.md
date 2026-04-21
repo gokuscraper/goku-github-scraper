@@ -1,4 +1,4 @@
-# 悟空GitHub采集器
+# 悟空GitHub采集器（GitHub 抓取工具 - GitHub 爬虫工具）
 
 一个面向开发者的 GitHub 数据分析工具，
 
